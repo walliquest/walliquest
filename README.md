@@ -26,10 +26,10 @@
 <div align="justify" style="margin: 0 auto; width: 80%;">
 
 **EN:**  
-Data professional specializing in analytics and business intelligence, transforming complex data into strategic decisions through advanced analysis and machine learning techniques. Passionate about extracting valuable insights from data to drive business growth.
+Passionate Data Science student developing skills in analytics and data processing. Focused on learning machine learning techniques and data visualization to solve real-world problems. Currently expanding knowledge in Python, R and database management.
 
 **PT-BR:**  
-Profissional de dados especializado em análise e business intelligence, transformando dados complexos em decisões estratégicas através de técnicas avançadas de análise e machine learning. Apaixonado por extrair insights valiosos de dados para impulsionar o crescimento dos negócios.
+Estudante de Ciência de Dados apaixonado por análise e processamento de dados. Focado em aprender técnicas de machine learning e visualização de dados para resolver problemas reais. Atualmente expandindo conhecimentos em Python, R e gerenciamento de bancos de dados.
 
 </div>
 
